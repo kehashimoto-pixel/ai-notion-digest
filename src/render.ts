@@ -12,14 +12,9 @@ const SOURCE_LABELS: Record<string, string> = {
   "hatena-claudecode": "はてブ",
   "hatena-notionai": "はてブ",
   "hatena-anthropic": "はてブ",
-  "hn-claude": "Hacker News",
-  "hn-notion": "Hacker News",
   "gigazine": "GIGAZINE",
   "itmedia-aiplus": "ITmedia AI+",
   "publickey": "Publickey",
-  "claude-code-changelog": "Claude Code Changelog",
-  "notion-releases": "Notion Releases",
-  "anthropic-news": "Anthropic News",
 };
 
 function escapeHtml(text: string): string {
@@ -43,9 +38,8 @@ function sourceLabel(item: Item): string {
 
 function renderItemRow(item: Item): string {
   const engagementText = item.engagement > 0 ? `<span class="engagement">👍 ${item.engagement}</span>` : "";
-  const titleAttr = item.originalTitle ? ` title="原文: ${escapeHtml(item.originalTitle)}"` : "";
   return `<li class="item">
-  <a class="title" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer"${titleAttr}>${escapeHtml(item.title)}</a>
+  <a class="title" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
   <div class="meta">
     <span class="badge">${escapeHtml(sourceLabel(item))}</span>
     <span class="date">${formatDateJst(item.publishedAt)}</span>

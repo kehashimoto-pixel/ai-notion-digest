@@ -7,7 +7,6 @@ import { normalizeUrl } from "./normalize.js";
 import { computeScore } from "./scoring.js";
 import { loadItems, loadSeenUrls, saveItems, saveSeenUrls } from "./store.js";
 import { writeDocs } from "./render.js";
-import { needsTranslation, translateToJa } from "./translate.js";
 
 async function loadConfig<T>(relativePath: string): Promise<T> {
   const raw = await readFile(path.resolve(relativePath), "utf-8");
@@ -50,21 +49,6 @@ function withinWindow(item: Item, windowDays: number, nowMs: number): boolean {
   return ageMs <= windowDays * 24 * 60 * 60 * 1000;
 }
 
-// 翻訳機能の導入前に収集済みだったアイテムは未翻訳のまま残るため、掲載対象の間は毎回再試行する
-async function backfillTranslations(items: Item[]): Promise<number> {
-  let translatedCount = 0;
-  for (const item of items) {
-    if (item.originalTitle || !needsTranslation(item.title)) continue;
-    const translated = await translateToJa(item.title);
-    if (translated) {
-      item.originalTitle = item.title;
-      item.title = translated;
-      translatedCount++;
-    }
-  }
-  return translatedCount;
-}
-
 async function main(): Promise<void> {
   const sources = await loadConfig<SourcesConfig>("config/sources.json");
   const scoring = await loadConfig<ScoringConfig>("config/scoring.json");
@@ -88,35 +72,21 @@ async function main(): Promise<void> {
     if (seenUrls.has(normalizedUrl)) continue;
     seenUrls.add(normalizedUrl);
 
-    let title = raw.title;
-    let originalTitle: string | null = null;
-    if (needsTranslation(title)) {
-      const translated = await translateToJa(title);
-      if (translated) {
-        originalTitle = title;
-        title = translated;
-      }
-    }
-    const translatedRaw: RawItem = { ...raw, title };
-
-    const { score, isDeadline } = computeScore(translatedRaw, scoring);
+    const { score, isDeadline } = computeScore(raw, scoring);
     if (score <= 0) continue;
 
     newItems.push({
-      ...translatedRaw,
+      ...raw,
       normalizedUrl,
       firstSeenAt: nowIso,
       score,
       isDeadline,
-      originalTitle,
     });
   }
 
   const mergedItems = [...existingItems, ...newItems].filter((item) =>
     withinWindow(item, scoring.windowDays, nowMs)
   );
-
-  const backfilledCount = await backfillTranslations(mergedItems);
 
   await saveSeenUrls(seenUrls);
   await saveItems(mergedItems);
@@ -132,7 +102,7 @@ async function main(): Promise<void> {
       console.log(`  FAIL ${r.sourceId}: ${r.error}`);
     }
   }
-  console.log(`新規アイテム ${newItems.length}件 / 掲載中 ${mergedItems.length}件 / 追加翻訳 ${backfilledCount}件`);
+  console.log(`新規アイテム ${newItems.length}件 / 掲載中 ${mergedItems.length}件`);
 }
 
 main().catch((error) => {
