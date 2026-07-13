@@ -1,0 +1,38 @@
+{
+  "sourceWeights": {
+    "changelog": 10,
+    "official-blog": 8,
+    "tech-article": 3,
+    "aggregator": 1
+  },
+  "keywordBoost": {
+    "Notion": 2,
+    "Claude": 2,
+    "Anthropic": 2,
+    "OpenAI": 1,
+    "エージェント": 1,
+    "MCP": 3,
+    "API": 1
+  },
+  "keywordPenalty": {
+    "求人": -100,
+    "採用": -100,
+    "広告": -50,
+    "セール": -50,
+    "PR案件": -100
+  },
+  "engagement": {
+    "hatenaPerBookmark": 0.5,
+    "hnPerPoint": 0.2,
+    "maxBonus": 20
+  },
+  "deadline": {
+    "keywords": ["まで", "期限", "終了", "値上げ", "廃止", "サポート終了"],
+    "datePatterns": [
+      "\\d{4}[/年]\\s?\\d{1,2}[/月]\\s?\\d{1,2}日?",
+      "\\d{1,2}[/月]\\s?\\d{1,2}日?"
+    ],
+    "bonus": 15
+  },
+  "windowDays": 14
+}

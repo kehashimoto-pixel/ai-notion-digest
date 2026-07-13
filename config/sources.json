@@ -1,0 +1,23 @@
+{
+  "rss": [
+    { "id": "zenn-claudecode", "url": "https://zenn.dev/topics/claudecode/feed", "sourceType": "tech-article" },
+    { "id": "zenn-claude", "url": "https://zenn.dev/topics/claude/feed", "sourceType": "tech-article" },
+    { "id": "zenn-notion", "url": "https://zenn.dev/topics/notion/feed", "sourceType": "tech-article" },
+    { "id": "qiita-claudecode", "url": "https://qiita.com/tags/ClaudeCode/feed", "sourceType": "tech-article" },
+    { "id": "qiita-notion", "url": "https://qiita.com/tags/Notion/feed", "sourceType": "tech-article" },
+    { "id": "qiita-claude", "url": "https://qiita.com/tags/Claude/feed", "sourceType": "tech-article" },
+    { "id": "hatena-claudecode", "url": "https://b.hatena.ne.jp/search/text?q=Claude+Code&mode=rss", "sourceType": "aggregator" },
+    { "id": "hatena-notionai", "url": "https://b.hatena.ne.jp/search/text?q=Notion+AI&mode=rss", "sourceType": "aggregator" },
+    { "id": "hatena-anthropic", "url": "https://b.hatena.ne.jp/search/text?q=Anthropic&mode=rss", "sourceType": "aggregator" },
+    { "id": "hn-claude", "url": "https://hnrss.org/newest?q=Claude&points=50", "sourceType": "aggregator" },
+    { "id": "hn-notion", "url": "https://hnrss.org/newest?q=Notion&points=50", "sourceType": "aggregator" },
+    { "id": "gigazine", "url": "https://gigazine.net/news/rss_2.0/", "sourceType": "tech-article" },
+    { "id": "itmedia-aiplus", "url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml", "sourceType": "tech-article" },
+    { "id": "publickey", "url": "https://www.publickey1.jp/atom.xml", "sourceType": "tech-article" },
+    { "id": "claude-code-changelog", "url": "https://github.com/anthropics/claude-code/commits/main/CHANGELOG.md.atom", "sourceType": "changelog" }
+  ],
+  "htmlDiff": [
+    { "id": "notion-releases", "url": "https://www.notion.com/releases", "sourceType": "official-blog" },
+    { "id": "anthropic-news", "url": "https://www.anthropic.com/news", "sourceType": "official-blog" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ai-notion-digest",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Notion/Claude(Anthropic)/生成AI関連アップデートを自動収集しGitHub Pagesで公開するダイジェスト",
+  "type": "module",
+  "scripts": {
+    "collect": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "fast-xml-parser": "^5.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vitest": "^4.1.10"
+  }
+}
