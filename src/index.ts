@@ -50,6 +50,21 @@ function withinWindow(item: Item, windowDays: number, nowMs: number): boolean {
   return ageMs <= windowDays * 24 * 60 * 60 * 1000;
 }
 
+// 翻訳機能の導入前に収集済みだったアイテムは未翻訳のまま残るため、掲載対象の間は毎回再試行する
+async function backfillTranslations(items: Item[]): Promise<number> {
+  let translatedCount = 0;
+  for (const item of items) {
+    if (item.originalTitle || !needsTranslation(item.title)) continue;
+    const translated = await translateToJa(item.title);
+    if (translated) {
+      item.originalTitle = item.title;
+      item.title = translated;
+      translatedCount++;
+    }
+  }
+  return translatedCount;
+}
+
 async function main(): Promise<void> {
   const sources = await loadConfig<SourcesConfig>("config/sources.json");
   const scoring = await loadConfig<ScoringConfig>("config/scoring.json");
@@ -101,6 +116,8 @@ async function main(): Promise<void> {
     withinWindow(item, scoring.windowDays, nowMs)
   );
 
+  const backfilledCount = await backfillTranslations(mergedItems);
+
   await saveSeenUrls(seenUrls);
   await saveItems(mergedItems);
   await writeDocs(mergedItems, nowIso);
@@ -115,7 +132,7 @@ async function main(): Promise<void> {
       console.log(`  FAIL ${r.sourceId}: ${r.error}`);
     }
   }
-  console.log(`新規アイテム ${newItems.length}件 / 掲載中 ${mergedItems.length}件`);
+  console.log(`新規アイテム ${newItems.length}件 / 掲載中 ${mergedItems.length}件 / 追加翻訳 ${backfilledCount}件`);
 }
 
 main().catch((error) => {

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-13T18:40:41.005Z",
+  "generatedAt": "2026-07-13T18:44:13.525Z",
   "items": [
     {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "title": "クロードコードはプロンプトを読む前に33 kトークンを送信します。OpenCodeは7 kを送信します",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -11,10 +11,11 @@
       "normalizedUrl": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 23,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
     },
     {
-      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "title": "GPT-5.6、Grok 4.5、Claude、Muse Sparkが同じ4つのアプリを構築",
       "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -23,10 +24,11 @@
       "normalizedUrl": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 23,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps"
     },
     {
-      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "title": "Grok 4.5、GPT-5.5を作成し、Claudeは同じアプリを構築しました",
       "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -35,10 +37,11 @@
       "normalizedUrl": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 23,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "We made Grok 4.5, GPT-5.5, and Claude build the same apps"
     },
     {
-      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "title": "Geosql ：地理空間データのためのクロード/コーデックススキル",
       "url": "https://github.com/dekart-xyz/geosql",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -47,10 +50,11 @@
       "normalizedUrl": "https://github.com/dekart-xyz/geosql",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 23,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Geosql: A Claude/Codex skill for geospatial data"
     },
     {
-      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "title": "Show HN: Rowboat - Claude Desktopに代わるオープンソースのローカルファースト",
       "url": "https://github.com/rowboatlabs/rowboat",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -59,10 +63,11 @@
       "normalizedUrl": "https://github.com/rowboatlabs/rowboat",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 23,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop"
     },
     {
-      "title": "Claude Design System Prompt",
+      "title": "クロードデザインシステムプロンプト",
       "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -71,10 +76,11 @@
       "normalizedUrl": "https://github.com/Trystan-SA/claude-design-system-prompt",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 23,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Claude Design System Prompt"
     },
     {
-      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "title": "Claude Mythos Previewのリリースに関連して、新しい深刻な脆弱性が急増しました",
       "url": "https://epoch.ai/data-insights/cve-severity-spike",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -83,10 +89,11 @@
       "normalizedUrl": "https://epoch.ai/data-insights/cve-severity-spike",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 23,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "New serious vulnerabilities spiked around release of Claude Mythos Preview"
     },
     {
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "title": "情報筋によると、Alibabaはバックドアのリスクの疑いで職場でClaude Codeを禁止するという。",
       "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -95,10 +102,11 @@
       "normalizedUrl": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 23,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says"
     },
     {
-      "title": "Claude-real-video － any LLM can watch a video",
+      "title": "Claude - real - video -どのLLMでもビデオを見ることができます",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -107,10 +115,11 @@
       "normalizedUrl": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 23,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Claude-real-video － any LLM can watch a video"
     },
     {
-      "title": "Claude Fable 5 Promotional Access",
+      "title": "クロード寓話5プロモーションアクセス",
       "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -119,10 +128,11 @@
       "normalizedUrl": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 23,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Claude Fable 5 Promotional Access"
     },
     {
-      "title": "ZCode: Claude Code from the Makers of GLM",
+      "title": "Zコード： GLMメーカーのクロードコード",
       "url": "https://zcode.z.ai/cn",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -131,10 +141,11 @@
       "normalizedUrl": "https://zcode.z.ai/cn",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 23,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "ZCode: Claude Code from the Makers of GLM"
     },
     {
-      "title": "Claude Sonnet 5",
+      "title": "クロードのソネット5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -143,7 +154,8 @@
       "normalizedUrl": "https://www.anthropic.com/news/claude-sonnet-5",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 23,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Claude Sonnet 5"
     },
     {
       "title": "Anthropic、「Fable 5」の無償アクセスと「Claude Code」利用上限50％増を7月19日まで延長",
@@ -195,7 +207,7 @@
       "isDeadline": true
     },
     {
-      "title": "Anthropic restoring access to Claude Fable 5 and Mythos 5 from tomorrow",
+      "title": "明日からクロード寓話5と神話5へのアクセスを復活させるアントロピック",
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -204,10 +216,11 @@
       "normalizedUrl": "https://twitter.com/AnthropicAI/status/2072106151890809341",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 16.6,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Anthropic restoring access to Claude Fable 5 and Mythos 5 from tomorrow"
     },
     {
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "title": "sqlite - utils 4.0rc2、主にClaude Fableによって書かれました（約$ 149.25 ）",
       "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -216,10 +229,11 @@
       "normalizedUrl": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 16.200000000000003,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)"
     },
     {
-      "title": "Claude Fable 5 export control lifted",
+      "title": "クロード寓話5の輸出管理が解除されました",
       "url": "https://twitter.com/synthwavedd/status/2072103052635451559",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -228,10 +242,11 @@
       "normalizedUrl": "https://twitter.com/synthwavedd/status/2072103052635451559",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 16.200000000000003,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Claude Fable 5 export control lifted"
     },
     {
-      "title": "Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"",
+      "title": "クロードのAskUserQuestion ：「60代後に応答がありません–応答なしで続きました」",
       "url": "https://github.com/anthropics/claude-code/issues/73125",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -240,10 +255,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/issues/73125",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 16,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Claude's AskUserQuestion: \"No response after 60s – continued without an answer\""
     },
     {
-      "title": "The Making of Claude Code",
+      "title": "クロード・コードの作り方",
       "url": "https://www.anthropic.com/features/making-of-claude-code",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -252,10 +268,11 @@
       "normalizedUrl": "https://www.anthropic.com/features/making-of-claude-code",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 15.200000000000001,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "The Making of Claude Code"
     },
     {
-      "title": "Claude Code Just Got 5x More Expensive",
+      "title": "Claude Codeが5倍高価に",
       "url": "https://www.vincentschmalbach.com/claude-code-quietly-looks-5x-more-expensive/",
       "sourceId": "hn-claude",
       "sourceType": "aggregator",
@@ -264,7 +281,8 @@
       "normalizedUrl": "https://www.vincentschmalbach.com/claude-code-quietly-looks-5x-more-expensive",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 14.4,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Claude Code Just Got 5x More Expensive"
     },
     {
       "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
@@ -279,7 +297,7 @@
       "isDeadline": false
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/d4d8fbbb333c627d8fe2c1c583a5ccc26fdb1aed",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -288,10 +306,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/d4d8fbbb333c627d8fe2c1c583a5ccc26fdb1aed",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/15a21e1b4e240e2da6a4953d5f148a806c9c9bb2",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -300,10 +319,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/15a21e1b4e240e2da6a4953d5f148a806c9c9bb2",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/be02c39841a59e2ac1f35ac12285def02acdbb5a",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -312,10 +332,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/be02c39841a59e2ac1f35ac12285def02acdbb5a",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/d0f5bebd40c098c5913b6419a2ecfc7104f0cd41",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -324,10 +345,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/d0f5bebd40c098c5913b6419a2ecfc7104f0cd41",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/00ea2924471e5c226e872d42229fbb1dae41f442",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -336,10 +358,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/00ea2924471e5c226e872d42229fbb1dae41f442",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/7930e1c82d997b013af28673501f3b95569a71cb",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -348,10 +371,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/7930e1c82d997b013af28673501f3b95569a71cb",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/c489eb25c7e32dec227916e1663cab3538ba594d",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -360,10 +384,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/c489eb25c7e32dec227916e1663cab3538ba594d",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/1322e9bacc9fdb575812add107c9421dfbff592b",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -372,10 +397,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/1322e9bacc9fdb575812add107c9421dfbff592b",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/125d63feaec6e89708d95bbb4ed7dae0f62eb39f",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -384,10 +410,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/125d63feaec6e89708d95bbb4ed7dae0f62eb39f",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/5dc12eb281b8b9d177f3aa2a0601e9a929b70268",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -396,10 +423,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/5dc12eb281b8b9d177f3aa2a0601e9a929b70268",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/75709eacf1334051ea293fb87a0e88a1e6812f94",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -408,10 +436,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/75709eacf1334051ea293fb87a0e88a1e6812f94",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/a56ff02e8592fb2ad056e60d6f4fa231724deabb",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -420,10 +449,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/a56ff02e8592fb2ad056e60d6f4fa231724deabb",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "chore: Update CHANGELOG.md and feed.xml",
+      "title": "chore: CHANGELOG.mdとfeed.xmlを更新します",
       "url": "https://github.com/anthropics/claude-code/commit/c80896ca84bd5f45cfe2cd4c1ae91b5d4ba4280b",
       "sourceId": "claude-code-changelog",
       "sourceType": "changelog",
@@ -432,10 +462,11 @@
       "normalizedUrl": "https://github.com/anthropics/claude-code/commit/c80896ca84bd5f45cfe2cd4c1ae91b5d4ba4280b",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "chore: Update CHANGELOG.md and feed.xml"
     },
     {
-      "title": "NotionYour AI workspace",
+      "title": "NotionAIワークスペース",
       "url": "https://www.notion.com/product",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -444,10 +475,11 @@
       "normalizedUrl": "https://www.notion.com/product",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "NotionYour AI workspace"
     },
     {
-      "title": "Notion Calendar",
+      "title": "Notionカレンダー",
       "url": "https://www.notion.com/product/calendar",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -456,10 +488,11 @@
       "normalizedUrl": "https://www.notion.com/product/calendar",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Notion Calendar"
     },
     {
-      "title": "Notion AIAI tools for work",
+      "title": "Notion AIAIの仕事用ツール",
       "url": "https://www.notion.com/product/ai",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -468,10 +501,11 @@
       "normalizedUrl": "https://www.notion.com/product/ai",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Notion AIAI tools for work"
     },
     {
-      "title": "Notion App→",
+      "title": "Notionアプリ→",
       "url": "https://www.notion.com/download",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -480,10 +514,11 @@
       "normalizedUrl": "https://www.notion.com/download",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Notion App→"
     },
     {
-      "title": "Get Notion free",
+      "title": "Notionを無料で入手",
       "url": "https://www.notion.com/signup",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -492,10 +527,11 @@
       "normalizedUrl": "https://www.notion.com/signup",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Get Notion free"
     },
     {
-      "title": "Share Notion Workers across your team",
+      "title": "Notion Workersをチーム全体で共有する",
       "url": "https://www.notion.com/releases/2026-07-09",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -504,10 +540,11 @@
       "normalizedUrl": "https://www.notion.com/releases/2026-07-09",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Share Notion Workers across your team"
     },
     {
-      "title": "Meet the Notion Agents iOS app",
+      "title": "NotionエージェントiOSアプリのご紹介",
       "url": "https://www.notion.com/releases/2026-07-08",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -516,10 +553,11 @@
       "normalizedUrl": "https://www.notion.com/releases/2026-07-08",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Meet the Notion Agents iOS app"
     },
     {
-      "title": "Notion 3.6: External Agents, HTML blocks, and more",
+      "title": "Notion 3.6 ：外部エージェント、HTMLブロックなど",
       "url": "https://www.notion.com/releases/2026-07-01",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -528,10 +566,11 @@
       "normalizedUrl": "https://www.notion.com/releases/2026-07-01",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Notion 3.6: External Agents, HTML blocks, and more"
     },
     {
-      "title": "3.5: Notion Developer Platform",
+      "title": "3.5 ： Notion開発者プラットフォーム",
       "url": "https://www.notion.com/releases/2026-05-13",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -540,10 +579,11 @@
       "normalizedUrl": "https://www.notion.com/releases/2026-05-13",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "3.5: Notion Developer Platform"
     },
     {
-      "title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "title": "発表2026年6月30日科学者向けのAIワークベンチであるClaude Scienceが利用可能になりましたClaude Scienceは、研究者が最も頻繁に使用するツールとパッケージを統合し、監査可能なアーティファクトを生成し、コンピューティングリソースへの柔軟なアクセスを提供するカスタマイズ可能なアプリです。",
       "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -552,10 +592,11 @@
       "normalizedUrl": "https://www.anthropic.com/news/claude-science-ai-workbench",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources."
     },
     {
-      "title": "Jul 9, 2026Case StudyUST is bringing Claude to physical AI",
+      "title": "2026年7月9日ケーススタディUSTは、Claudeを物理的なAIにもたらします",
       "url": "https://www.anthropic.com/news/ust-claude",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -564,10 +605,11 @@
       "normalizedUrl": "https://www.anthropic.com/news/ust-claude",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Jul 9, 2026Case StudyUST is bringing Claude to physical AI"
     },
     {
-      "title": "Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "title": "2026年7月9日お知らせベン・バーナンキがAnthropicの長期給付信託に任命されました",
       "url": "https://www.anthropic.com/news/ben-bernanke",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -576,10 +618,11 @@
       "normalizedUrl": "https://www.anthropic.com/news/ben-bernanke",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust"
     },
     {
-      "title": "Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "title": "2026年7月6日ケーススタディアルバータ州政府は、Claudeを使用して、政府システム全体のサイバーセキュリティの脆弱性を見つけて修正します",
       "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -588,10 +631,11 @@
       "normalizedUrl": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems"
     },
     {
-      "title": "Jun 23, 2026ProductIntroducing Claude Tag",
+      "title": "2026年6月23日製品紹介クロードタグ",
       "url": "https://www.anthropic.com/news/introducing-claude-tag",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -600,10 +644,11 @@
       "normalizedUrl": "https://www.anthropic.com/news/introducing-claude-tag",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Jun 23, 2026ProductIntroducing Claude Tag"
     },
     {
-      "title": "Engineering at Anthropic",
+      "title": "Anthropicのエンジニアリング",
       "url": "https://www.anthropic.com/engineering",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -612,10 +657,11 @@
       "normalizedUrl": "https://www.anthropic.com/engineering",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Engineering at Anthropic"
     },
     {
-      "title": "Anthropic",
+      "title": "アントロピック",
       "url": "https://www.anthropic.com/company",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -624,10 +670,11 @@
       "normalizedUrl": "https://www.anthropic.com/company",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Anthropic"
     },
     {
-      "title": "Claude’s Constitution",
+      "title": "クロードの憲法",
       "url": "https://www.anthropic.com/constitution",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -636,10 +683,11 @@
       "normalizedUrl": "https://www.anthropic.com/constitution",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Claude’s Constitution"
     },
     {
-      "title": "Claude Corps",
+      "title": "クロード・コープス",
       "url": "https://www.anthropic.com/claude-corps",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -648,7 +696,8 @@
       "normalizedUrl": "https://www.anthropic.com/claude-corps",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 10,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Claude Corps"
     },
     {
       "title": "OpenCut classic を fork して MCP を入れた — Claude が動画編集する4つの罠",
@@ -687,7 +736,7 @@
       "isDeadline": false
     },
     {
-      "title": "AgentsAutomate busywork",
+      "title": "エージェント無駄な作業を自動化する",
       "url": "https://www.notion.com/product/agents",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -696,10 +745,11 @@
       "normalizedUrl": "https://www.notion.com/product/agents",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "AgentsAutomate busywork"
     },
     {
-      "title": "AI Meeting NotesPerfectly written by AI",
+      "title": "AI会議メモAIによって完璧に書かれています",
       "url": "https://www.notion.com/product/ai-meeting-notes",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -708,10 +758,11 @@
       "normalizedUrl": "https://www.notion.com/product/ai-meeting-notes",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "AI Meeting NotesPerfectly written by AI"
     },
     {
-      "title": "Enterprise SearchFind answers instantly",
+      "title": "Enterprise SearchFindが即座に回答",
       "url": "https://www.notion.com/product/enterprise-search",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -720,10 +771,11 @@
       "normalizedUrl": "https://www.notion.com/product/enterprise-search",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Enterprise SearchFind answers instantly"
     },
     {
-      "title": "Knowledge BaseCentralize your knowledge",
+      "title": "ナレッジベース知識を一元化する",
       "url": "https://www.notion.com/product/wikis",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -732,10 +784,11 @@
       "normalizedUrl": "https://www.notion.com/product/wikis",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Knowledge BaseCentralize your knowledge"
     },
     {
-      "title": "DocsSimple and powerful",
+      "title": "Docsシンプルでパワフル",
       "url": "https://www.notion.com/product/docs",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -744,10 +797,11 @@
       "normalizedUrl": "https://www.notion.com/product/docs",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "DocsSimple and powerful"
     },
     {
-      "title": "ProjectsManage any project",
+      "title": "プロジェクト任意のプロジェクトを管理",
       "url": "https://www.notion.com/product/projects",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -756,10 +810,11 @@
       "normalizedUrl": "https://www.notion.com/product/projects",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "ProjectsManage any project"
     },
     {
-      "title": "ConnectionsConnect your apps",
+      "title": "Connectionsアプリを接続する",
       "url": "https://www.notion.com/connections",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -768,10 +823,11 @@
       "normalizedUrl": "https://www.notion.com/connections",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "ConnectionsConnect your apps"
     },
     {
-      "title": "SecuritySafe and scalable",
+      "title": "セキュリティ安全でスケーラブル",
       "url": "https://www.notion.com/security",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -780,10 +836,11 @@
       "normalizedUrl": "https://www.notion.com/security",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "SecuritySafe and scalable"
     },
     {
-      "title": "See what’s new→",
+      "title": "新リリースを見る",
       "url": "https://www.notion.com/releases",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -792,10 +849,11 @@
       "normalizedUrl": "https://www.notion.com/releases",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "See what’s new→"
     },
     {
-      "title": "For work",
+      "title": "仕事用？",
       "url": "https://www.notion.com/product/ai/use-cases?type=work",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -804,10 +862,11 @@
       "normalizedUrl": "https://www.notion.com/product/ai/use-cases",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "For work"
     },
     {
-      "title": "Eng & Product",
+      "title": "エンジニアリングと製品",
       "url": "https://www.notion.com/product/notion-for-product-development",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -816,10 +875,11 @@
       "normalizedUrl": "https://www.notion.com/product/notion-for-product-development",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Eng & Product"
     },
     {
-      "title": "Marketing",
+      "title": "マーケティング",
       "url": "https://www.notion.com/templates/category/marketing",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -828,10 +888,11 @@
       "normalizedUrl": "https://www.notion.com/templates/category/marketing",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Marketing"
     },
     {
-      "title": "Startups",
+      "title": "スタートアップ企業",
       "url": "https://www.notion.com/startups",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -840,10 +901,11 @@
       "normalizedUrl": "https://www.notion.com/startups",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Startups"
     },
     {
-      "title": "Small businesses",
+      "title": "中小企業",
       "url": "https://www.notion.com/teams",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -852,10 +914,11 @@
       "normalizedUrl": "https://www.notion.com/teams",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Small businesses"
     },
     {
-      "title": "Enterprise",
+      "title": "エンタープライズ",
       "url": "https://www.notion.com/enterprise",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -864,10 +927,11 @@
       "normalizedUrl": "https://www.notion.com/enterprise",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Enterprise"
     },
     {
-      "title": "Education",
+      "title": "教育",
       "url": "https://www.notion.com/product/notion-for-education",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -876,10 +940,11 @@
       "normalizedUrl": "https://www.notion.com/product/notion-for-education",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Education"
     },
     {
-      "title": "Personal",
+      "title": "個人",
       "url": "https://www.notion.com/personal",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -888,10 +953,11 @@
       "normalizedUrl": "https://www.notion.com/personal",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Personal"
     },
     {
-      "title": "Templates",
+      "title": "テンプレート",
       "url": "https://www.notion.com/templates",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -900,10 +966,11 @@
       "normalizedUrl": "https://www.notion.com/templates",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Templates"
     },
     {
-      "title": "Consultants",
+      "title": "コンサルタント",
       "url": "https://www.notion.com/explore-consultants",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -912,10 +979,11 @@
       "normalizedUrl": "https://www.notion.com/explore-consultants",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Consultants"
     },
     {
-      "title": "Customer stories",
+      "title": "お客様のストーリー",
       "url": "https://www.notion.com/customers",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -924,10 +992,11 @@
       "normalizedUrl": "https://www.notion.com/customers",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Customer stories"
     },
     {
-      "title": "Webinars",
+      "title": "ウェビナー",
       "url": "https://www.notion.com/webinars",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -936,10 +1005,11 @@
       "normalizedUrl": "https://www.notion.com/webinars",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Webinars"
     },
     {
-      "title": "Product tours",
+      "title": "製品ツアー",
       "url": "https://www.notion.com/product/demos",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -948,10 +1018,11 @@
       "normalizedUrl": "https://www.notion.com/product/demos",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Product tours"
     },
     {
-      "title": "Request a demo",
+      "title": "デモをリクエストする",
       "url": "https://www.notion.com/contact-sales",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -960,10 +1031,11 @@
       "normalizedUrl": "https://www.notion.com/contact-sales",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Request a demo"
     },
     {
-      "title": "Download the desktop app for the best experience →",
+      "title": "デスクトップアプリをダウンロードして最高の体験を →",
       "url": "https://www.notion.com/desktop",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -972,10 +1044,11 @@
       "normalizedUrl": "https://www.notion.com/desktop",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Download the desktop app for the best experience →"
     },
     {
-      "title": "Learn more →",
+      "title": "さらに詳しく",
       "url": "https://www.notion.com/help/mcp-connections-for-custom-agents",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -984,10 +1057,11 @@
       "normalizedUrl": "https://www.notion.com/help/mcp-connections-for-custom-agents",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Learn more →"
     },
     {
-      "title": "learn more",
+      "title": "詳細はこちら",
       "url": "https://www.notion.com/help/use-custom-agents-on-slack-enterprise-grid",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -996,10 +1070,11 @@
       "normalizedUrl": "https://www.notion.com/help/use-custom-agents-on-slack-enterprise-grid",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "learn more"
     },
     {
-      "title": "Learn more →",
+      "title": "さらに詳しく",
       "url": "https://www.notion.com/help/notion-credits-dashboard",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1008,10 +1083,11 @@
       "normalizedUrl": "https://www.notion.com/help/notion-credits-dashboard",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Learn more →"
     },
     {
-      "title": "Merge cells in simple tables",
+      "title": "単純なテーブル内のセルをマージする",
       "url": "https://www.notion.com/releases/2026-05-26",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1020,10 +1096,11 @@
       "normalizedUrl": "https://www.notion.com/releases/2026-05-26",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Merge cells in simple tables"
     },
     {
-      "title": "Read the docs →",
+      "title": "ドキュメントを読む",
       "url": "https://www.notion.com/help/run-custom-code-with-workers",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1032,7 +1109,8 @@
       "normalizedUrl": "https://www.notion.com/help/run-custom-code-with-workers",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Read the docs →"
     },
     {
       "title": "Brainlabs",
@@ -1047,7 +1125,7 @@
       "isDeadline": false
     },
     {
-      "title": "Plan Mode",
+      "title": "プランモード",
       "url": "https://www.notion.com/releases/2026-05-07",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1056,10 +1134,11 @@
       "normalizedUrl": "https://www.notion.com/releases/2026-05-07",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Plan Mode"
     },
     {
-      "title": "Plan Mode",
+      "title": "プランモード",
       "url": "https://www.notion.com/help/review-and-approve-plans-before-notion-ai-runs",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1068,10 +1147,11 @@
       "normalizedUrl": "https://www.notion.com/help/review-and-approve-plans-before-notion-ai-runs",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Plan Mode"
     },
     {
-      "title": "New Custom Agent Directory",
+      "title": "新しいカスタムエージェントディレクトリ",
       "url": "https://www.notion.com/releases/2026-05-06",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1080,10 +1160,11 @@
       "normalizedUrl": "https://www.notion.com/releases/2026-05-06",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "New Custom Agent Directory"
     },
     {
-      "title": "New Custom Agent controls for admins",
+      "title": "管理者向けの新しいカスタムエージェントコントロール",
       "url": "https://www.notion.com/releases/2026-05-05",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1092,10 +1173,11 @@
       "normalizedUrl": "https://www.notion.com/releases/2026-05-05",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "New Custom Agent controls for admins"
     },
     {
-      "title": "admin console",
+      "title": "アドミンコンソール",
       "url": "https://www.notion.com/help/organization-level-controls",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1104,10 +1186,11 @@
       "normalizedUrl": "https://www.notion.com/help/organization-level-controls",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "admin console"
     },
     {
-      "title": "A new home on mobile",
+      "title": "モバイルで新しい宿泊先を探す",
       "url": "https://www.notion.com/releases/2026-05-04",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1116,10 +1199,11 @@
       "normalizedUrl": "https://www.notion.com/releases/2026-05-04",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "A new home on mobile"
     },
     {
-      "title": "Add Custom Agents to private Slack channels",
+      "title": "カスタムエージェントを非公開のSlackチャンネルに追加する",
       "url": "https://www.notion.com/releases/2026-05-01",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1128,10 +1212,11 @@
       "normalizedUrl": "https://www.notion.com/releases/2026-05-01",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Add Custom Agents to private Slack channels"
     },
     {
-      "title": "Slack AI Connector",
+      "title": "Slack AIコネクタ",
       "url": "https://www.notion.com/help/notion-ai-connectors-for-slack",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1140,10 +1225,11 @@
       "normalizedUrl": "https://www.notion.com/help/notion-ai-connectors-for-slack",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Slack AI Connector"
     },
     {
-      "title": "Next page",
+      "title": "次のページ",
       "url": "https://www.notion.com/releases/page/2",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1152,10 +1238,11 @@
       "normalizedUrl": "https://www.notion.com/releases/page/2",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Next page"
     },
     {
-      "title": "English (US)",
+      "title": "英語（米国）",
       "url": "https://www.notion.com/en-US",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1164,10 +1251,11 @@
       "normalizedUrl": "https://www.notion.com/en-US",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "English (US)"
     },
     {
-      "title": "Bahasa Indonesia",
+      "title": "バハサ・インドネシア語",
       "url": "https://www.notion.com/id",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1176,10 +1264,11 @@
       "normalizedUrl": "https://www.notion.com/id",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Bahasa Indonesia"
     },
     {
-      "title": "English (UK)",
+      "title": "英語 (イギリス)",
       "url": "https://www.notion.com/en-GB",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1188,7 +1277,8 @@
       "normalizedUrl": "https://www.notion.com/en-GB",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "English (UK)"
     },
     {
       "title": "Español (España)",
@@ -1203,7 +1293,7 @@
       "isDeadline": false
     },
     {
-      "title": "Español (Latinoamérica)",
+      "title": "スペイン語（ラテンアメリカ）",
       "url": "https://www.notion.com/es",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1212,10 +1302,11 @@
       "normalizedUrl": "https://www.notion.com/es",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Español (Latinoamérica)"
     },
     {
-      "title": "Français (France)",
+      "title": "フランス語（フランス）",
       "url": "https://www.notion.com/fr",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1224,10 +1315,11 @@
       "normalizedUrl": "https://www.notion.com/fr",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Français (France)"
     },
     {
-      "title": "Italiano",
+      "title": "イタリア語",
       "url": "https://www.notion.com/it",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1236,10 +1328,11 @@
       "normalizedUrl": "https://www.notion.com/it",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Italiano"
     },
     {
-      "title": "Nederlands",
+      "title": "オランダ語",
       "url": "https://www.notion.com/nl",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1248,7 +1341,8 @@
       "normalizedUrl": "https://www.notion.com/nl",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Nederlands"
     },
     {
       "title": "Português (Brasil)",
@@ -1275,7 +1369,7 @@
       "isDeadline": false
     },
     {
-      "title": "About us",
+      "title": "会社概要",
       "url": "https://www.notion.com/about",
       "sourceId": "notion-releases",
       "sourceType": "official-blog",
@@ -1284,10 +1378,11 @@
       "normalizedUrl": "https://www.notion.com/about",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "About us"
     },
     {
-      "title": "Skip to main content",
+      "title": "メインコンテンツへスキップ",
       "url": "https://www.anthropic.com/news#main-content",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1296,10 +1391,11 @@
       "normalizedUrl": "https://www.anthropic.com/news",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Skip to main content"
     },
     {
-      "title": "Research",
+      "title": "研究",
       "url": "https://www.anthropic.com/research",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1308,10 +1404,11 @@
       "normalizedUrl": "https://www.anthropic.com/research",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Research"
     },
     {
-      "title": "Inviting hard questionsAnnouncementsJul 9, 2026We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "title": "難しい質問を招待するお知らせ2026年7月9日私たちは、AIに関する最も難しい質問を一般の人々に尋ね、私たちが取り組むにつれて私たちの仕事を示すことを約束します。",
       "url": "https://www.anthropic.com/news/hard-questions",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1320,10 +1417,11 @@
       "normalizedUrl": "https://www.anthropic.com/news/hard-questions",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Inviting hard questionsAnnouncementsJul 9, 2026We’re asking the public for their hardest questions about AI, and committing to show our work as we address them."
     },
     {
-      "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "title": "お知らせ2026年6月30日寓話5の再配備寓話5が7月1日に全世界に帰ってきました。また、Amazon、Microsoft、Google、その他のGlasswingパートナーと協力して、脱獄の深刻度をスコアリングするための業界全体のフレームワークを提案しています。",
       "url": "https://www.anthropic.com/news/redeploying-fable-5",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1332,10 +1430,11 @@
       "normalizedUrl": "https://www.anthropic.com/news/redeploying-fable-5",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners."
     },
     {
-      "title": "Jul 2, 2026AnnouncementsMore details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "title": "2026年7月2日お知らせ寓話5のサイバーセーフガードと脱獄フレームワークの詳細",
       "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1344,10 +1443,11 @@
       "normalizedUrl": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Jul 2, 2026AnnouncementsMore details on Fable 5’s cyber safeguards and our jailbreak framework"
     },
     {
-      "title": "Availability",
+      "title": "発売",
       "url": "https://www.anthropic.com/supported-countries",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1356,10 +1456,11 @@
       "normalizedUrl": "https://www.anthropic.com/supported-countries",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Availability"
     },
     {
-      "title": "Economic Futures",
+      "title": "経済先物",
       "url": "https://www.anthropic.com/economic-futures",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1368,10 +1469,11 @@
       "normalizedUrl": "https://www.anthropic.com/economic-futures",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Economic Futures"
     },
     {
-      "title": "Keep thinking",
+      "title": "考え続ける",
       "url": "https://www.anthropic.com/path-to-hope",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1380,10 +1482,11 @@
       "normalizedUrl": "https://www.anthropic.com/path-to-hope",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Keep thinking"
     },
     {
-      "title": "Policy on the AI Exponential",
+      "title": "AI指数に関する方針",
       "url": "https://www.anthropic.com/policy-on-the-ai-exponential",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1392,10 +1495,11 @@
       "normalizedUrl": "https://www.anthropic.com/policy-on-the-ai-exponential",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Policy on the AI Exponential"
     },
     {
-      "title": "Responsible Scaling Policy",
+      "title": "責任あるスケーリングポリシー",
       "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1404,10 +1508,11 @@
       "normalizedUrl": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Responsible Scaling Policy"
     },
     {
-      "title": "Transparency",
+      "title": "透明性",
       "url": "https://www.anthropic.com/transparency",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1416,10 +1521,11 @@
       "normalizedUrl": "https://www.anthropic.com/transparency",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Transparency"
     },
     {
-      "title": "Privacy policy",
+      "title": "プライバリシーポリシー",
       "url": "https://www.anthropic.com/legal/privacy",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1428,10 +1534,11 @@
       "normalizedUrl": "https://www.anthropic.com/legal/privacy",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Privacy policy"
     },
     {
-      "title": "Consumer health data privacy policy",
+      "title": "消費者健康データプライバシーポリシー",
       "url": "https://www.anthropic.com/legal/consumer-health-data-privacy-policy",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1440,10 +1547,11 @@
       "normalizedUrl": "https://www.anthropic.com/legal/consumer-health-data-privacy-policy",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Consumer health data privacy policy"
     },
     {
-      "title": "Responsible disclosure policy",
+      "title": "責任ある開示方針",
       "url": "https://www.anthropic.com/responsible-disclosure-policy",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1452,10 +1560,11 @@
       "normalizedUrl": "https://www.anthropic.com/responsible-disclosure-policy",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Responsible disclosure policy"
     },
     {
-      "title": "Terms of service: Commercial",
+      "title": "利用規約：商用",
       "url": "https://www.anthropic.com/legal/commercial-terms",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1464,10 +1573,11 @@
       "normalizedUrl": "https://www.anthropic.com/legal/commercial-terms",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Terms of service: Commercial"
     },
     {
-      "title": "Terms of service: Consumer",
+      "title": "利用規約：消費者",
       "url": "https://www.anthropic.com/legal/consumer-terms",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1476,10 +1586,11 @@
       "normalizedUrl": "https://www.anthropic.com/legal/consumer-terms",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Terms of service: Consumer"
     },
     {
-      "title": "Usage policy",
+      "title": "使用方針",
       "url": "https://www.anthropic.com/legal/aup",
       "sourceId": "anthropic-news",
       "sourceType": "official-blog",
@@ -1488,7 +1599,8 @@
       "normalizedUrl": "https://www.anthropic.com/legal/aup",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 8,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Usage policy"
     },
     {
       "title": "AIエージェントに日本の公的データを喋らせる9つのMCPサーバーを作った（全部無料で試せる）",
@@ -1612,7 +1724,7 @@
       "isDeadline": false
     },
     {
-      "title": "5 Open Source Tools That Quietly Fix Claude Code's Biggest Weak Spots",
+      "title": "クロードコードの最大の弱点を静かに修正する5つのオープンソースツール",
       "url": "https://zenn.dev/neotechpark/articles/438a4f7d0e4dc2",
       "sourceId": "zenn-claudecode",
       "sourceType": "tech-article",
@@ -1621,7 +1733,8 @@
       "normalizedUrl": "https://zenn.dev/neotechpark/articles/438a4f7d0e4dc2",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 5,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "5 Open Source Tools That Quietly Fix Claude Code's Biggest Weak Spots"
     },
     {
       "title": "Claude Codeでダウンロードフォルダを自動で整理する",
@@ -2723,7 +2836,7 @@
       "isDeadline": false
     },
     {
-      "title": "Notion | Where teams and agents work together",
+      "title": "Notion |チームとエージェントが協力する場所",
       "url": "https://hlnet.notion.site/text-art-tools",
       "sourceId": "hatena-notionai",
       "sourceType": "aggregator",
@@ -2732,7 +2845,8 @@
       "normalizedUrl": "https://hlnet.notion.site/text-art-tools",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 3,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Notion | Where teams and agents work together"
     },
     {
       "title": "「Notion 3.6」が公開 ～Webコンテンツを埋め込めるHTMLブロック、AIでその場で生成も／話者ラベル、オーケストレーションなどAI機能をさらに拡充",
@@ -2771,7 +2885,7 @@
       "isDeadline": false
     },
     {
-      "title": "A new way to reflect on how you use Claude",
+      "title": "クロードの使い方を振り返る新しい方法",
       "url": "https://www.anthropic.com/news/reflect-with-claude",
       "sourceId": "hatena-anthropic",
       "sourceType": "aggregator",
@@ -2780,7 +2894,8 @@
       "normalizedUrl": "https://www.anthropic.com/news/reflect-with-claude",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 3,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "A new way to reflect on how you use Claude"
     },
     {
       "title": "Anthropic、バーナンキ元FRB議長を独立監督機関に招へい――AIが経済に与える影響を注視",
@@ -3701,7 +3816,7 @@
       "isDeadline": false
     },
     {
-      "title": "Linas Beliūnas (@linas)",
+      "title": "リナス・ベリウナス（@ linas ）",
       "url": "https://substack.com/@linas/note/c-287596713",
       "sourceId": "hatena-claudecode",
       "sourceType": "aggregator",
@@ -3710,7 +3825,8 @@
       "normalizedUrl": "https://substack.com/@linas/note/c-287596713",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 1,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Linas Beliūnas (@linas)"
     },
     {
       "title": "ループエンジニアリングをGitHub Copilotで組めるか調べてみた",
@@ -3725,7 +3841,7 @@
       "isDeadline": false
     },
     {
-      "title": "Ghost Font: The Anti-AI Font Only Humans Can Read",
+      "title": "ゴーストフォント：人間だけが読めるアンチAIフォント",
       "url": "https://www.mixfont.com/ghost-font",
       "sourceId": "hatena-claudecode",
       "sourceType": "aggregator",
@@ -3734,7 +3850,8 @@
       "normalizedUrl": "https://www.mixfont.com/ghost-font",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 1,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "Ghost Font: The Anti-AI Font Only Humans Can Read"
     },
     {
       "title": "【codexは口八丁？】claude codeとcodexとfable5とteraを使って比較した結果。claudecodeとfableが少し有利かも",
@@ -4001,7 +4118,7 @@
       "isDeadline": false
     },
     {
-      "title": "AI 2040: Plan A",
+      "title": "AI 2040 ：プランA",
       "url": "https://ai-2040.com/",
       "sourceId": "hatena-anthropic",
       "sourceType": "aggregator",
@@ -4010,10 +4127,11 @@
       "normalizedUrl": "https://ai-2040.com/",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 1,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "AI 2040: Plan A"
     },
     {
-      "title": "My Thoughts on the Bun Rust Rewrite - Andrew Kelley",
+      "title": "Bun Rustの書き換えに関する私の考え- Andrew Kelley",
       "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
       "sourceId": "hatena-anthropic",
       "sourceType": "aggregator",
@@ -4022,7 +4140,8 @@
       "normalizedUrl": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
       "firstSeenAt": "2026-07-13T18:25:22.760Z",
       "score": 1,
-      "isDeadline": false
+      "isDeadline": false,
+      "originalTitle": "My Thoughts on the Bun Rust Rewrite - Andrew Kelley"
     }
   ]
 }
