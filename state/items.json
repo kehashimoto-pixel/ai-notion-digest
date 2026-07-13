@@ -2648,5 +2648,29 @@
     "firstSeenAt": "2026-07-13T19:02:56.622Z",
     "score": 1,
     "isDeadline": false
+  },
+  {
+    "title": "OpenClawに深刻な脆弱性、WhatsApp経由でホスト乗っ取り—成立に必要だった条件とは",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/113148/",
+    "sourceId": "hatena-claudecode",
+    "sourceType": "aggregator",
+    "publishedAt": "2026-07-13T04:57:55.000Z",
+    "engagement": 0,
+    "normalizedUrl": "https://innovatopia.jp/cyber-security/cyber-security-news/113148",
+    "firstSeenAt": "2026-07-13T19:04:57.011Z",
+    "score": 1,
+    "isDeadline": false
+  },
+  {
+    "title": "OpenAI・Google、1260Hリスト企業のシンガポール法人へAI提供 合法取引が問う「モデルは輸出品か」",
+    "url": "https://innovatopia.jp/ai/ai-news/113159/",
+    "sourceId": "hatena-claudecode",
+    "sourceType": "aggregator",
+    "publishedAt": "2026-07-13T04:57:47.000Z",
+    "engagement": 0,
+    "normalizedUrl": "https://innovatopia.jp/ai/ai-news/113159",
+    "firstSeenAt": "2026-07-13T19:04:57.011Z",
+    "score": 2,
+    "isDeadline": false
   }
 ]
