@@ -7,6 +7,7 @@ import { normalizeUrl } from "./normalize.js";
 import { computeScore } from "./scoring.js";
 import { loadItems, loadSeenUrls, saveItems, saveSeenUrls } from "./store.js";
 import { writeDocs } from "./render.js";
+import { needsTranslation, translateToJa } from "./translate.js";
 
 async function loadConfig<T>(relativePath: string): Promise<T> {
   const raw = await readFile(path.resolve(relativePath), "utf-8");
@@ -72,15 +73,27 @@ async function main(): Promise<void> {
     if (seenUrls.has(normalizedUrl)) continue;
     seenUrls.add(normalizedUrl);
 
-    const { score, isDeadline } = computeScore(raw, scoring);
+    let title = raw.title;
+    let originalTitle: string | null = null;
+    if (needsTranslation(title)) {
+      const translated = await translateToJa(title);
+      if (translated) {
+        originalTitle = title;
+        title = translated;
+      }
+    }
+    const translatedRaw: RawItem = { ...raw, title };
+
+    const { score, isDeadline } = computeScore(translatedRaw, scoring);
     if (score <= 0) continue;
 
     newItems.push({
-      ...raw,
+      ...translatedRaw,
       normalizedUrl,
       firstSeenAt: nowIso,
       score,
       isDeadline,
+      originalTitle,
     });
   }
 

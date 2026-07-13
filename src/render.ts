@@ -43,8 +43,9 @@ function sourceLabel(item: Item): string {
 
 function renderItemRow(item: Item): string {
   const engagementText = item.engagement > 0 ? `<span class="engagement">👍 ${item.engagement}</span>` : "";
+  const titleAttr = item.originalTitle ? ` title="原文: ${escapeHtml(item.originalTitle)}"` : "";
   return `<li class="item">
-  <a class="title" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
+  <a class="title" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer"${titleAttr}>${escapeHtml(item.title)}</a>
   <div class="meta">
     <span class="badge">${escapeHtml(sourceLabel(item))}</span>
     <span class="date">${formatDateJst(item.publishedAt)}</span>

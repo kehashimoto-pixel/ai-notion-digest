@@ -14,6 +14,7 @@ export interface Item extends RawItem {
   firstSeenAt: string;
   score: number;
   isDeadline: boolean;
+  originalTitle: string | null;
 }
 
 export interface RssSourceConfig {
