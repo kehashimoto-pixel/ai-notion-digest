@@ -11,7 +11,8 @@
     { "id": "hatena-anthropic", "url": "https://b.hatena.ne.jp/search/text?q=Anthropic&mode=rss", "sourceType": "aggregator" },
     { "id": "gigazine", "url": "https://gigazine.net/news/rss_2.0/", "sourceType": "tech-article" },
     { "id": "itmedia-aiplus", "url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml", "sourceType": "tech-article" },
-    { "id": "publickey", "url": "https://www.publickey1.jp/atom.xml", "sourceType": "tech-article" }
+    { "id": "publickey", "url": "https://www.publickey1.jp/atom.xml", "sourceType": "tech-article" },
+    { "id": "notion-releases-ja", "url": "https://www.notion.com/ja/releases/rss.xml", "sourceType": "notion-official" }
   ],
   "htmlDiff": []
 }

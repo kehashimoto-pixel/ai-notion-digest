@@ -15,6 +15,7 @@ const SOURCE_LABELS: Record<string, string> = {
   "gigazine": "GIGAZINE",
   "itmedia-aiplus": "ITmedia AI+",
   "publickey": "Publickey",
+  "notion-releases-ja": "Notion公式",
 };
 
 function escapeHtml(text: string): string {

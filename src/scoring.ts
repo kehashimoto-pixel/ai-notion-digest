@@ -21,10 +21,7 @@ export function computeScore(item: RawItem, config: ScoringConfig): { score: num
     }
   }
 
-  const engagementBonus = Math.min(
-    item.engagement * (item.sourceId.startsWith("hn-") ? config.engagement.hnPerPoint : config.engagement.hatenaPerBookmark),
-    config.engagement.maxBonus
-  );
+  const engagementBonus = Math.min(item.engagement * config.engagement.hatenaPerBookmark, config.engagement.maxBonus);
   score += engagementBonus;
 
   const isDeadline = detectDeadline(item.title, config.deadline);

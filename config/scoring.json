@@ -1,17 +1,25 @@
 {
   "sourceWeights": {
-    "changelog": 10,
-    "official-blog": 8,
-    "tech-article": 3,
+    "notion-official": 15,
+    "tech-article": 4,
     "aggregator": 1
   },
   "keywordBoost": {
-    "Notion": 2,
+    "Notion": 6,
+    "NotionAI": 10,
+    "Notion AI": 10,
+    "プロンプト": 2,
+    "エージェント": 2,
+    "MCP": 3,
+    "RAG": 2,
+    "自動化": 2,
+    "ワークフロー": 2,
+    "業務効率化": 2,
+    "活用": 2,
+    "事例": 2,
     "Claude": 2,
     "Anthropic": 2,
     "OpenAI": 1,
-    "エージェント": 1,
-    "MCP": 3,
     "API": 1
   },
   "keywordPenalty": {
@@ -23,7 +31,6 @@
   },
   "engagement": {
     "hatenaPerBookmark": 0.5,
-    "hnPerPoint": 0.2,
     "maxBonus": 20
   },
   "deadline": {

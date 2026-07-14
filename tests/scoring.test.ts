@@ -3,10 +3,10 @@ import { computeScore, detectDeadline } from "../src/scoring.js";
 import type { RawItem, ScoringConfig } from "../src/types.js";
 
 const scoringConfig: ScoringConfig = {
-  sourceWeights: { changelog: 10, "official-blog": 8, "tech-article": 3, aggregator: 1 },
-  keywordBoost: { Claude: 2, MCP: 3 },
+  sourceWeights: { "notion-official": 15, "tech-article": 4, aggregator: 1 },
+  keywordBoost: { Notion: 6, Claude: 2, MCP: 3 },
   keywordPenalty: { 求人: -100 },
-  engagement: { hatenaPerBookmark: 0.5, hnPerPoint: 0.2, maxBonus: 20 },
+  engagement: { hatenaPerBookmark: 0.5, maxBonus: 20 },
   deadline: { keywords: ["まで", "終了"], datePatterns: ["\\d{1,2}[/月]\\s?\\d{1,2}日?"], bonus: 15 },
   windowDays: 14,
 };
@@ -41,7 +41,7 @@ describe("computeScore", () => {
   it("ソース重みとキーワード加点が反映される", () => {
     const item = makeItem({ title: "Claude Codeに新しいMCP対応が追加" });
     const { score } = computeScore(item, scoringConfig);
-    expect(score).toBe(3 + 2 + 3);
+    expect(score).toBe(4 + 2 + 3);
   });
 
   it("ノイズ語で大きく減点される", () => {
@@ -54,6 +54,6 @@ describe("computeScore", () => {
     const item = makeItem({ title: "Claude Pro 11月30日まで値上げ前料金で提供終了" });
     const { score, isDeadline } = computeScore(item, scoringConfig);
     expect(isDeadline).toBe(true);
-    expect(score).toBeGreaterThanOrEqual(3 + 2 + 15);
+    expect(score).toBeGreaterThanOrEqual(4 + 2 + 15);
   });
 });

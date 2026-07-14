@@ -1,4 +1,4 @@
-export type SourceType = "changelog" | "official-blog" | "tech-article" | "aggregator";
+export type SourceType = "notion-official" | "tech-article" | "aggregator";
 
 export interface RawItem {
   title: string;
@@ -33,7 +33,6 @@ export interface ScoringConfig {
   keywordPenalty: Record<string, number>;
   engagement: {
     hatenaPerBookmark: number;
-    hnPerPoint: number;
     maxBonus: number;
   };
   deadline: {

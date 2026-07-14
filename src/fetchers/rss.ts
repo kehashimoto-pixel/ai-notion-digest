@@ -25,12 +25,6 @@ function toArray<T>(value: T | T[] | undefined): T[] {
   return Array.isArray(value) ? value : [value];
 }
 
-function extractHnEngagement(description: string | undefined): number {
-  if (!description) return 0;
-  const match = description.match(/Points:\s*(\d+)/i);
-  return match ? Number(match[1]) : 0;
-}
-
 function extractHatenaEngagement(raw: Record<string, unknown>): number {
   const count = raw["hatena:bookmarkcount"];
   if (count === undefined) return 0;
@@ -61,9 +55,7 @@ export async function fetchRssSource(source: RssSourceConfig): Promise<RawItem[]
     if (!title || !link) continue;
     const dateStr = raw.pubDate ?? raw["dc:date"];
     const pubDate = dateStr ? new Date(dateStr) : null;
-    const engagement = source.id.startsWith("hn-")
-      ? extractHnEngagement(extractText(raw.description))
-      : extractHatenaEngagement(raw);
+    const engagement = extractHatenaEngagement(raw);
     items.push({
       title,
       url: link,
